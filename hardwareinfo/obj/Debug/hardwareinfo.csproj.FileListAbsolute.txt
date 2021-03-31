@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\hardwareinfo.exe.config
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\hardwareinfo.exe
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\hardwareinfo.pdb
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\MetroFramework.Design.dll
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\MetroFramework.dll
+C:\Users\ADMIN\source\repos\hardwareinfo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.Form1.resources
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.exe
+C:\Users\ADMIN\source\repos\hardwareinfo\obj\Debug\hardwareinfo.pdb

@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\bin\Debug\Weatherss.exe.config
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\bin\Debug\Weatherss.exe
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\bin\Debug\Weatherss.pdb
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.Form1.resources
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.exe
+C:\Users\ADMIN\source\repos\Weatherss\Weatherss\obj\Debug\Weatherss.pdb
